@@ -1,5 +1,5 @@
 import { createApp, watch } from 'vue'
-import Vue from 'vue'
+
 import '@/styles/index.scss'
 import App from '@/App.vue'
 
